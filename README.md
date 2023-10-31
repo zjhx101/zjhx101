@@ -1,4 +1,14 @@
 ### Hi there 👋
+- 🔭 I’m currently studying on FAFU (F&J agriculture and forestry university)
+- 🌱 I’m currently majoring in business administration
+- 👯 I’m looking to collaborate on studying about LLM
+- 🤔 I’m looking for help with python
+- 💬 Ask me about what you interest
+- 📫 My E-mail: zhou101top@gmail.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+
 
 <!--
 **zjhx101/zjhx101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
